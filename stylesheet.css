@@ -1,0 +1,83 @@
+.container {
+    background-color: darkslategrey;
+    color: rgba(red, green, blue, alpha);
+    padding-top: 15px;
+
+}
+
+.dhruv01 {
+    background-color: honeydew;
+    color: darkslategray;
+    text-decoration: underline;
+}
+
+.dhruv02 {
+    color: aliceblue;
+    font-size: x-large;
+    margin-bottom: 34px;
+    margin-top: 22px;
+}
+
+.p {
+    text-align: center;
+
+    font-size: x-large;
+}
+
+.form-block {
+    background-color: aliceblue;
+    display: ruby-text-container;
+    width: 80%;
+    height: 2.375rem;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    border-color: rgb(60, 65, 68);
+    border: 2px solid black;
+
+}
+
+.d {
+    background-color: black;
+}
+
+.form-group {
+    margin: -33px auto -5.75rem auto;
+    padding: 3.25rem;
+    font-size: x-large;
+    background-color: darkseagreen;
+
+
+}
+
+.block {
+    width: 171px;
+    height: 2.250rem;
+    font-size: 17px;
+}
+
+.form-lock {
+    width: 60;
+    margin-left: 70px;
+    height: 2.250rem;
+    font-size: 19px;
+}
+
+.form-block:hover {
+
+    background-color: rgb(213, 213, 213);
+    cursor: pointer;
+    font-size: 35px;
+}
+
+.form-group1 {
+    padding-left: 400px;
+    padding-top: 10px;
+}
+
+.button {
+
+    margin-left: 195px;
+    margin-top: 49px;
+
+}
